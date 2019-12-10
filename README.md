@@ -5,4 +5,4 @@
 ### [Project Two](Project_2.ipynb)
 #### Estimating Time of Arrival for Sendy Logistics, a company in Nairobi is predicted using Linear Regression.
 ### [Project Three](Project 3.ipynb)
-#### Designing a staff promotion algorithm using various classification algorithms
+#### Designing a staff promotion algorithm using various classification algorithms.
